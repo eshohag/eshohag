@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/eshohagbd" target="blank"><img src="https://img.shields.io/twitter/follow/eshohagbd?logo=twitter&style=for-the-badge" alt="eshohagbd" /></a> </p>
 
-- 🔭 I’m currently working on **AML**
+- 🔭 I’m currently working on **Anti Money Laundering-AML, CTS International Logistics & Cup Web**
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -11,13 +11,9 @@
 
 - 📝 I regularly write articles on [https://shohag.azurewebsites.net/](https://shohag.azurewebsites.net/)
 
-- 💬 Ask me about **FullStack Software Engineer | C# | TDD | DDD | ETL | DevOps | Clean Code | Continuous Learner**
-
 - 📫 How to reach me **eshohag@outlook.com**
 
 - 📄 Know about my experiences in details- <a href="https://rb.gy/2w7bqr" target="_blank">Download Resume</a>
-
-- ⚡ Fun fact **FunTopics**
 
 [![eShohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshohag&count_private=true&show_icons=true&theme=radical)](https://github.com/eshohag/github-readme-stats)
 
