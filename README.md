@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eshohag@outlook.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?authkey=%21AGmO64FqWk4khck&cid=4C566A07C085F217&id=4C566A07C085F217%21118&parId=4C566A07C085F217%21106&o=OneUp](https://onedrive.live.com/?authkey=%21AGmO64FqWk4khck&cid=4C566A07C085F217&id=4C566A07C085F217%21118&parId=4C566A07C085F217%21106&o=OneUp)
+- 📄 Know about my experiences in detail- <a href="https://rb.gy/2w7bqr" target="blank">Download Resume</a>
 
 - ⚡ Fun fact **FunTopics**
 
