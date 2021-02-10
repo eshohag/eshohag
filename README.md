@@ -41,5 +41,4 @@
 <p><a href="https://www.buymeacoffee.com/eshohag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eshohag" /></a></p>
 <br>
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/eshohag/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/eshohag/count.svg" alt="eshohag" /></p>
