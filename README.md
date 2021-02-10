@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shohag</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/shohagds" target="blank"><img src="https://img.shields.io/twitter/follow/shohagds?logo=twitter&style=for-the-badge" alt="shohagds" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eshohagbd" target="blank"><img src="https://img.shields.io/twitter/follow/eshohagbd?logo=twitter&style=for-the-badge" alt="eshohagbd" /></a> </p>
 
 - 🔭 I’m currently working on **AML**
 
