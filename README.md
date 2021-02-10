@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eshohag@outlook.com**
 
-- 📄 Know about my experiences in detail- <a href="https://rb.gy/2w7bqr" target="blank">Download Resume</a>
+- 📄 Know about my experiences in details- <a href="https://rb.gy/2w7bqr" target="_blank">Download Resume</a>
 
 - ⚡ Fun fact **FunTopics**
 
