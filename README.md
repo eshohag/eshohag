@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shohagds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shohagds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshohag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eshohag" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-shohag-mia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="md-shohag-mia" height="30" width="40" /></a>
 <a href="https://fb.com/shohagcse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shohagcse" height="30" width="40" /></a>
+<a href="https://twitter.com/eshohagbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eshohagbd" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/md-shohag-mia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="md-shohag-mia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
