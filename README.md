@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohag</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">FullStack Software Engineer | C# | TDD | DDD | ETL | Azure | DevOps | Clean Code | Continuous Learner</h3>
 
 <p align="left"> <a href="https://twitter.com/eshohagbd" target="blank"><img src="https://img.shields.io/twitter/follow/eshohagbd?logo=twitter&style=for-the-badge" alt="eshohagbd" /></a> </p>
 
