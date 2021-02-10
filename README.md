@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://shohag.azurewebsites.net/](https://shohag.azurewebsites.net/)
 
-- 📝 I regularly write articles on [https://shohag.azurewebsites.net/](https://shohag.azurewebsites.net/)
-
 - 📫 How to reach me **eshohag@outlook.com**
 
 - 📄 Know about my experiences in details- <a href="https://rb.gy/2w7bqr" target="_blank">Download Resume</a>
