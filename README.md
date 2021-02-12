@@ -26,10 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshohag&" alt="eshohag" /></p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshohag)](https://github.com/eshohag/github-readme-stats)
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +39,5 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eshohag" />
   </a>
 </p>
-<br>
 <br>
 <h5 align="center"><img src="https://profile-counter.glitch.me/eshohag/count.svg" alt="eshohag" /></h5>
