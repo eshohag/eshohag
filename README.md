@@ -24,9 +24,11 @@
 
 [![eShohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshohag&count_private=true&show_icons=true&theme=radical)](https://github.com/eshohag/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshohag&" alt="eshohag" /></p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshohag)](https://github.com/eshohag/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshohag&" alt="eshohag" /></p>
 <br>
 <br>
 
