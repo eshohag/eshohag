@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Anti Money Laundering-AML, CTS International Logistics & Cup Web**
 
-- 🌱 I’m currently learning **Blockchain Development [Smart Contract]**
+- 🌱 I’m currently learning **Blockchain[Smart Contract] Development**
 
 - 👨‍💻 All of my projects are available at [https://shohag.azurewebsites.net/](https://shohag.azurewebsites.net/)
 
