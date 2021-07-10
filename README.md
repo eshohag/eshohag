@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohag</h1>
-<h3 align="center">FullStack Software Engineer | C# | TDD | DDD | ETL | Azure | DevOps | Clean Code | Continuous Learner</h3>
+<h3 align="center">FullStack Software Engineer | C# | Solidity | DDD | ETL | Azure | DevOps | Clean Code | Continuous Learner</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/eshohag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eshohag" height="30" width="40" /></a>
