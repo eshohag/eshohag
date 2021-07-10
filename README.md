@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **eshohag@outlook.com**
 
-- 📄 Know about my experiences in details- <a href="https://1drv.ms/b/s!AhfyhcAHalZMiXedwnSkvrnvORFQ?e=Cy7T8x" target="_blank">Download Resume</a>
+- 📄 Know about my experiences in details- <a href="https://1drv.ms/u/s!AhfyhcAHalZMauXDhgeD1BZ5Eco?e=OgWwD0" target="_blank">Download Resume</a>
 
 [![eShohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshohag&count_private=true&show_icons=true&theme=radical)](https://github.com/eshohag/github-readme-stats)
 
