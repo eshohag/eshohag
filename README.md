@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Anti Money Laundering-AML, CTS International Logistics & Cup Web**
+- 🔭 I’m currently working on **mRemit(BRAC BANK LTD), NFT Project, Anti Money Laundering-AML, CTS Int'l Logistics & Cup Web**
 
 - 🌱 I’m currently learning **Blockchain[Smart Contract] Development**
 
