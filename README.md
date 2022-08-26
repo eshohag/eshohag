@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohag</h1>
-<h3 align="center">.NET(C#) | MSSQL | Solidity | Web3 | ERC20, ERC721 & ERC1155 | Ethereum & Polygon | IPFS | ETL | Azure | DevOps | Clean Code | Continuous Learner</h3>
+<h3 align="center">Ex-DataSoft & SELISE | .NET(C#) | MSSQL | Solidity | Web3 | Ethereum & Polygon | ERC Standard | IPFS | ETL | Clean Code | Continuous Learner</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/eshohag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eshohag" height="30" width="40" /></a>
