@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **Blockchain[Smart Contract] Development**
 
-- 👨‍💻 All of my projects are available at [https://shohag.azurewebsites.net/](https://shohag.azurewebsites.net/)
-
-- 💻 Nuget Packages contributions- https://www.nuget.org/profiles/eshohag
+- 👨‍💻 Check out my- <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a>, <a href="https://www.nuget.org/profiles/eshohag" target="_blank">👨‍💻Contributions Nuget Packages</a>, <a href="https://shohag.azurewebsites.net/" target="_blank">💻Personal Website</a>
 
 - 📫 How to reach me **eshohag@outlook.com**
 
