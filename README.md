@@ -6,77 +6,23 @@
 <a href="https://fb.com/shohagcse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shohagcse" height="30" width="40" /></a>
 <a href="https://twitter.com/eshohagbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eshohagbd" height="30" width="40" /></a>
 </p>
-<br>
 
 #### Who I am?
-- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Having 10 years of hands-on experience in **new technology adoption, product design & development end to end**
-- Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains.
-- Having built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** 
+- Having 6 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
+- Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains
+- Having built **web** apps targeting **multi-platform**, **cross-platform** ecosystems in **monolithic** and **microservices** architectures
+- Check out- <a href="https://1drv.ms/u/s!AhfyhcAHalZMauXDhgeD1BZ5Eco?e=OgWwD0" target="_blank">📄Download CV</a> | <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a> | <a href="https://www.nuget.org/profiles/eshohag" target="_blank">Contribution Nuget Packages</a> | <a href="https://shohag.azurewebsites.net/" target="_blank">Personal Website</a> 📫eshohag@outlook.com
 
 #### What I'm doing?
-- 🏢 Working at **[BRAC IT Services](https://www.bracits.com/)** as a **Senior Software Engineer**.
-- 🏢 Previously I Worked at **[SELISE Digital Platforms](http://selise.ch/)** as a **Software Engineer**,**[Datasoft Systems Bangladesh Limited](http://datasoft-bd.com/)** as a **Software Engineer**
-- 👨‍💻 Writing `C#` `SQL` `Solidity` `XAML` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/eshohag"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
-- 📚 Currently learning about **Blockchain**,**Clean Architecture**, **large scale system design**, and **techical pitch**.
+- 🏢 Working at **[BRAC IT Services](https://www.bracits.com/)** as a **Senior Software Engineer**
+- 🪜 Previously worked at **[SELISE Digital Platforms](http://selise.ch/)** | **[Datasoft Systems Bangladesh Limited](http://datasoft-bd.com/)** | **[attraBiT Technologies](http://www.attrabit.com/)** as a Software Engineer
+- 👨‍💻 Writing `C#` `SQL` `Solidity` `JavaScript`
+- 🌱 Currently learning about **EVM base Blockchain[Smart Contract], NFT Development**, **Clean Architecture**, **Large Scale System Design**
 - 👯 Looking to collaborate on **Blockchain & .NET projects**.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on **mRemit(BRAC BANK LTD), NFT Project, Anti Money Laundering-AML, CTS Int'l Logistics & Cup Web**
-
-- 🌱 I’m currently learning **Blockchain[Smart Contract] Development**
-
-- 👨‍💻 Check out my- <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a>, <a href="https://www.nuget.org/profiles/eshohag" target="_blank">👨‍💻Contributions Nuget Packages</a>, <a href="https://shohag.azurewebsites.net/" target="_blank">💻Personal Website</a>
-
-- 📫 How to reach me **eshohag@outlook.com**
-
-- 📄 Know about my experiences in details- <a href="https://1drv.ms/u/s!AhfyhcAHalZMauXDhgeD1BZ5Eco?e=OgWwD0" target="_blank">Download CV</a>
-
-[![eShohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshohag&count_private=true&show_icons=true&theme=radical)](https://github.com/eshohag/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshohag&" alt="eshohag" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshohag)](https://github.com/eshohag/github-readme-stats)
-
-<br>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="mssql" width="40" height="40" /> </a>
-      <a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="redux" width="40" height="40" /> </a><a href="https://www.nginx.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/384px-Ethereum_logo_2014.svg.png?20161015085252" alt="nginx" width="40" height="40" /> </a>    
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /> </a>
-    <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
-   
-</p>
 
 #### What companies have I worked for?
 <p left="center">
@@ -93,6 +39,16 @@
     <img src="http://www.attrabit.com/images/02.jpg" height=50 width=250>
   </a>
 </p>
+
+
+
+
+#### What's my GitHub Status?
+[![eShohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshohag&count_private=true&show_icons=true&theme=radical)](https://github.com/eshohag/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshohag&" alt="eshohag" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshohag)](https://github.com/eshohag/github-readme-stats)
 
 <br>
 <br>
