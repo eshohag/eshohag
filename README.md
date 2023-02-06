@@ -20,7 +20,7 @@
 - 👨‍💻 Writing `C#` `SQL` `Solidity` `JavaScript`
 - 🌱 Currently learning about **EVM base Blockchain[Smart Contract], NFT Development**, **Clean Architecture**, **Large Scale System Design**
 - 👯 Looking to collaborate on **Blockchain & .NET projects**
-- 🥰 Building severals [project repository](https://github.com/eshohag?tab=repositories/) as pet projects
+- 🥰 Building various [repositories](https://github.com/eshohag?tab=repositories/) as pet projects
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `sdlc` `choice of frameworks` and `tech culture`
 
