@@ -53,29 +53,18 @@
    
 </p>
 
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/eshohag">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eshohag" />
-  </a>
-</p>
-
-<br>
-<br>
-
 #### What companies have I worked for?
 <p left="center">
- <a href="https://www.bracits.com">
+ <a href="https://www.bracits.com" style="padding: 10px;">
     <img src="https://www.bracits.com/assets/img/logo.svg" height=50>
   </a>
-  <a href="https://selisegroup.com/">
+  <a href="https://selisegroup.com/" style="padding: 10px;">
     <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
     </a>  
-  <a href="http://datasoft-bd.com/">
+  <a href="http://datasoft-bd.com/" style="padding: 10px;">
     <img src="http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png" height=50> 
   </a>
-  <a href="http://www.attrabit.com/">
+  <a href="http://www.attrabit.com/" style="padding: 10px;">
     <img src="http://www.attrabit.com/images/02.jpg" height=50 width=250>
   </a>
 </p>
