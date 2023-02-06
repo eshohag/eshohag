@@ -6,8 +6,33 @@
 <a href="https://fb.com/shohagcse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shohagcse" height="30" width="40" /></a>
 <a href="https://twitter.com/eshohagbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eshohagbd" height="30" width="40" /></a>
 </p>
-
 <br>
+
+#### Who I am?
+- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Having 10 years of hands-on experience in **new technology adoption, product design & development end to end**
+- Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains.
+- Having built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+
+#### What I'm doing?
+- 🏢 Working at **[BRAC IT Services](https://www.bracits.com/)** as a **Senior Software Engineer**.
+- 🏢 Previously I Worked at **[SELISE Digital Platforms](http://selise.ch/)** as a **Software Engineer**,**[Datasoft Systems Bangladesh Limited](http://datasoft-bd.com/)** as a **Software Engineer**
+- 👨‍💻 Writing `C#` `SQL` `Solidity` `XAML` `HTML` `CSS` `JavaScript`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/eshohag"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+- 📚 Currently learning about **Blockchain**,**Clean Architecture**, **large scale system design**, and **techical pitch**.
+- 👯 Looking to collaborate on **Blockchain & .NET projects**.
+
+#### What I like to disscuss about? 
+- 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on **mRemit(BRAC BANK LTD), NFT Project, Anti Money Laundering-AML, CTS Int'l Logistics & Cup Web**
 
