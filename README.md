@@ -64,4 +64,22 @@
 <br>
 <br>
 
+#### What companies have I worked for?
+<p left="center">
+ <a href="https://www.bracits.com">
+    <img src="https://www.bracits.com/assets/img/logo.svg" height=50>
+  </a>
+  <a href="https://selisegroup.com/">
+    <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
+    </a>  
+  <a href="http://datasoft-bd.com/">
+    <img src="http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png" height=50> 
+  </a>
+  <a href="http://www.attrabit.com/">
+    <img src="http://www.attrabit.com/images/02.jpg" height=50 width=250>
+  </a>
+</p>
+
+<br>
+<br>
 <h5 align="center"><img src="https://profile-counter.glitch.me/eshohag/count.svg" alt="eshohag" /></h5>
