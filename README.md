@@ -27,10 +27,10 @@
 
 #### What my skill set looks like?
 - 🖥 **Front-End:** 
-  - **📜 Languages:** • `HTML` • `CSS` • `XAML` • `JavaScript` • `jQuery` • `ajax` • `json` • `angularJs` • `reactJs`
+  - **📜 Languages:** • `HTML` • `CSS` • `XAML` • `JavaScript` • `jQuery` • `ajax` • `json` • `angularJs` • `reactJs` • `web3js`
   - **🔬 Frameworks:**  
     - **🖥 Desktop:** • [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/) 
-    - **🌐 Web:** • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
+    - **🌐 Web:** • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [web3js](https://web3js.readthedocs.io/)
   - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Crystal Reports](https://www.sap.com/products/technology-platform/crystal-reports.html)
 - 🗄️ **Back-End:**
   - **📜 Languages:** • `🧙🏻‍♂️ C#` `SQL` `Solidity`
