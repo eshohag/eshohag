@@ -67,8 +67,8 @@
     <img src="https://www.bracits.com/assets/img/logo.svg" height=50>
   </a>
   <a href="https://selisegroup.com/" style="padding: 10px !important;">
-    <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
-    </a>  
+    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50>
+  </a>  
   <a href="http://datasoft-bd.com/" style="padding: 10px !important;">
     <img src="http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png" height=50> 
   </a>
