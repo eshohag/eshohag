@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Shohag</h1>
-<h3 align="center">Ex-DataSoft & SELISE | .NET(C#) | MSSQL | Solidity | Web3 | Ethereum & Polygon | ERC Standard | IPFS | ETL | Clean Code | Continuous Learner</h3>
+<h3 align="center">Ex-SELISE & DataSoft | .NET(C#) | MSSQL | Solidity | Web3 | Ethereum & Polygon | ERC Standard | IPFS | ETL | Clean Code | Continuous Learner</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/eshohag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eshohag" height="30" width="40" /></a>
@@ -9,7 +9,7 @@
 
 #### Who I am?
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** 
-- Having 6 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
+- Having 7 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
 - Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains
 - Having built **Web** apps targeting **multi-platform**, **cross-platform** ecosystems in **monolithic** and **microservices** architectures
 - Check out- <a href="https://1drv.ms/b/s!AhfyhcAHalZMkAzVWnxmip-ofBKT?e=tIiOXI" target="_blank">📄Download CV</a> | <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a> | <a href="https://www.nuget.org/profiles/eshohag" target="_blank">Contribution Nuget Packages</a> | <a href="https://shohag.azurewebsites.net/" target="_blank">Personal Website</a> 📫eshohag@outlook.com
