@@ -64,19 +64,19 @@
 #### What companies have I worked for?
 <p left="left">
  <a href="https://www.bracits.com" style="padding: 10px !important;" target="_blank">
-    <img src="https://www.bracits.com/assets/img/logo.svg" height="50" alt="https://www.bracits.com/">
+    <img src="./images/bits-logo.svg" height="50" alt="https://www.bracits.com/">
   </a>
 
   <a href="https://selisegroup.com/" style="padding: 10px !important;"  target="_blank">
-    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height="50" alt="https://selisegroup.com/">
+    <img src="./images/selise-logo.png" height="50" alt="https://selisegroup.com/">
   </a> 
   
   <a href="http://datasoft-bd.com/" style="padding: 10px !important;" target="_blank">
-    <img src="http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png" height="50" alt="https://www.datasoft-bd.com/"> 
+    <img src="./images/ds-logo.png" height="50" alt="https://www.datasoft-bd.com/"> 
   </a>
   
   <a href="http://www.attrabit.com/" style="padding: 10px !important;" target="_blank">
-    <img src="http://www.attrabit.com/images/02.jpg" width="250" height="50" alt="https://www.attrabit.com/">
+    <img src="./images/attrabit-logo.jpg" width="250" height="50" alt="https://www.attrabit.com/">
   </a>
 </p>
 
