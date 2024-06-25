@@ -11,8 +11,8 @@
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** 
 - Having 7 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
 - Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains
-- Having built **Web** apps targeting **multi-platform**, **cross-platform** ecosystems in **monolithic** and **microservices** architectures
-- Check out- <a href="https://1drv.ms/b/s!AhfyhcAHalZMkAzVWnxmip-ofBKT?e=tIiOXI" target="_blank">📄Download CV</a> | <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a> | <a href="https://www.nuget.org/profiles/eshohag" target="_blank">Contribution Nuget Packages</a> | <a href="https://shohag.azurewebsites.net/" target="_blank">Personal Website</a> 📫eshohag@outlook.com
+- Having built **Web** apps targeting **Multi-Platform**, **Cross-Platform** ecosystems in **Monolithic**, **Microservices** and **Hybrid** architectures
+- Check out my documents- <a href="https://1drv.ms/b/c/4c566a07c085f217/EVuuEBNHh81Ov2dpoU6JQ7sBwZkhXBpAv3_veRYN2F_qYg?e=5Ko3uI" target="_blank">📄Download Updated CV</a> | <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a> | <a href="https://www.nuget.org/profiles/eshohag" target="_blank">Contribution Nuget Packages</a> | <a href="https://shohag.azurewebsites.net/" target="_blank">Personal Website</a> 📫eshohag@outlook.com
 
 #### What I'm doing?
 - 🏢 Working at **[BRAC IT Services Ltd](https://www.bracits.com/)** as a **Senior Software Engineer**
