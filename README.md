@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Shohag</h1>
-<h3 align="center">Ex-SELISE & DataSoft | .NET(C#) | MSSQL | Solidity | Web3 | Ethereum & Polygon | ERC Standard | IPFS | ETL | Clean Code | Continuous Learner</h3>
+<h3 align="center">Ex-BRAC IT, SELISE & DataSoft | .NET(C#) | MSSQL | Solidity | Web3 | Ethereum & Polygon | ERC Standard | IPFS | ETL | Clean Code | Continuous Learner</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/eshohag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eshohag" height="30" width="40" /></a>
@@ -63,6 +63,9 @@
 
 #### What companies have I worked for?
 <p left="left">
+   <a href="https://www.pubalibangla.com" style="padding: 10px !important;" target="_blank">
+    <img src="./images/pubali-logo.png" height="50" alt="https://www.pubalibangla.com/">
+  </a>
  <a href="https://www.bracits.com" style="padding: 10px !important;" target="_blank">
     <img src="./images/bits-logo.svg" height="50" alt="https://www.bracits.com/">
   </a>
