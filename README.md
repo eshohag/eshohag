@@ -9,7 +9,7 @@
 
 #### Who I am?
 - A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** 
-- Having 7 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
+- Having 9 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
 - Developed products for **Financial Service(Remittance, Anti-Money Laundering-AML),HealthCare, Retail & Logistics** business domains
 - Having built **Web** apps targeting **Multi-Platform**, **Cross-Platform** ecosystems in **Monolithic**, **Microservices** and **Hybrid** architectures
 - Check out my documents- <a href="https://1drv.ms/f/c/4c566a07c085f217/EhfyhcAHalYggExqAAAAAAABtxp3mnSllgJIU1hOHW2QKQ?e=hh7waA" target="_blank">📄Download Updated CV</a> | <a href="https://www.hackerrank.com/eshohag" target="_blank">HackerRank Profile</a> | <a href="https://www.nuget.org/profiles/eshohag" target="_blank">Contribution Nuget Packages</a> | <a href="https://shohag.azurewebsites.net/" target="_blank">Personal Website</a> 📫eshohag@outlook.com
